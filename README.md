@@ -49,4 +49,8 @@ and the message `FieldSet` based types.
 
 ## Licence
 
-LGPLv3.
+LGPLv3. See `LICENSE` and `COPYING.LESSER`.
+
+Copyright (c) 2018 Lucas Martin-King.
+
+Other parts of this software (eg: Hachoir3) are covered by other licences.
